@@ -1,0 +1,329 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HandmadeShop.bundle.scp.css",
+      "PackagePath": "staticwebassets\\HandmadeShop.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\images\\product\\05951e0c-8efe-474e-b05c-484de4a6ee61.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\05951e0c-8efe-474e-b05c-484de4a6ee61.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\images\\product\\07234c12-faac-4969-88e8-cc097645797d.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\07234c12-faac-4969-88e8-cc097645797d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\images\\product\\12309ec8-71c4-4f1f-afd3-79bfe891b094.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\12309ec8-71c4-4f1f-afd3-79bfe891b094.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\images\\product\\1b4cf467-a57c-4c7d-bb1f-0f24457c3d7a.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\1b4cf467-a57c-4c7d-bb1f-0f24457c3d7a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\images\\product\\2bb3d9e5-53b5-4717-9ea0-9147bbb241ab.png",
+      "PackagePath": "staticwebassets\\images\\product\\2bb3d9e5-53b5-4717-9ea0-9147bbb241ab.png"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\images\\product\\3d07bc15-e628-4834-80d5-f600c58710ae.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\3d07bc15-e628-4834-80d5-f600c58710ae.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\images\\product\\685ebd44-9647-4d0e-930c-45c12e02e4f5.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\685ebd44-9647-4d0e-930c-45c12e02e4f5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\images\\product\\7b5b04e6-49ab-4b61-8876-7bedbc5893c5.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\7b5b04e6-49ab-4b61-8876-7bedbc5893c5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\images\\product\\7e790b52-6aec-4646-9101-3b35919adc50.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\7e790b52-6aec-4646-9101-3b35919adc50.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\images\\product\\81198809-4408-4ad5-8a17-83106a44929a.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\81198809-4408-4ad5-8a17-83106a44929a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\images\\product\\91868760-ead8-4b2b-a792-b79460f08edf.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\91868760-ead8-4b2b-a792-b79460f08edf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\images\\product\\9aa82061-98c8-4fe4-b568-d29cba5f3449.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\9aa82061-98c8-4fe4-b568-d29cba5f3449.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\images\\product\\cce54db0-d566-4286-9284-93e22f95a819.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\cce54db0-d566-4286-9284-93e22f95a819.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\images\\product\\f1ca2c11-ce74-4910-ab71-9a397932a8df.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\f1ca2c11-ce74-4910-ab71-9a397932a8df.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\images\\product\\f3961ab7-ffd2-43ad-a181-2d937a59301d.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\f3961ab7-ffd2-43ad-a181-2d937a59301d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ράνια\\source\\repos\\Handmade\\HandmadeShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HandmadeShop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.HandmadeShop.props",
+      "PackagePath": "build\\HandmadeShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.HandmadeShop.props",
+      "PackagePath": "buildMultiTargeting\\HandmadeShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.HandmadeShop.props",
+      "PackagePath": "buildTransitive\\HandmadeShop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
