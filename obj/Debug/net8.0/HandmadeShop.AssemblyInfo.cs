@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HandmadeShop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+982703c418bd270aa5633e19ceaf09ebb4972575")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+851d599a9f99cf13045345201c30b0621db0a5ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("HandmadeShop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HandmadeShop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
